@@ -9,7 +9,7 @@ create a visual grapher and learn about a GUI API, wxWidgets.
 To Compile and run, type "make run" in terminal at file directory
 To graph an equation, click in the bottom left field and type an equation.
 
-examples. 
+Examples: 
 "y = 3 * x + 4" 
 "y = x ^ 3 + 9" 
 "y = x ^ .5" 
